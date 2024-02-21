@@ -1,0 +1,8 @@
+we just made a default arg
+Master Python!
+My newest todo is added
+Go to mall
+Buy Carrot
+Clean the bag
+Complete ML course
+Deployment the web app
